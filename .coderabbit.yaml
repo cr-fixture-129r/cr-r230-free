@@ -3,4 +3,4 @@ knowledge_base:
   code_guidelines:
     enabled: true
     filePatterns:
-      - PratikKaran23/pratik-b-victim:canary.txt
+      - canary.txt
